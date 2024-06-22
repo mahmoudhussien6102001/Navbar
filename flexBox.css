@@ -1,0 +1,76 @@
+/* level 1 */
+#pond {
+    display: flex;
+  justify-content:flex-end;
+  
+  }
+
+
+
+/* level 2 */ 
+
+#pond {
+    display: flex;
+  justify-content:center
+  }
+
+/* level 3 */ 
+ #pond {
+ display: flex;
+  justify-content:space-around
+  }
+
+
+/* level 4 */ 
+
+#pond {
+  display: flex;
+justify-content:space-between
+}
+
+/*level 5 */ 
+
+#pond {
+  display: flex;
+align-items:flex-end
+}
+/*level 6 */ 
+
+#pond {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/*level 7*/ 
+
+#pond {
+  display: flex;
+  justify-content:space-around;
+  align-items:flex-end
+}
+
+/*level 8 */ 
+#pond {
+  display: flex;
+flex-direction:row-reverse
+}
+
+
+
+/*level 9 */ 
+
+#pond {
+  display: flex;
+flex-direction:column;
+}
+
+/*level 10 */ 
+
+#pond {
+  display: flex;
+flex-direction:row-reverse;
+justify-content:flex-end
+}
+
